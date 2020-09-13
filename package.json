@@ -1,5 +1,5 @@
   {
-    "name": "werk-app",
+    "name": "werkapp",
     "description": "Recruitment App using MERN",
     "version": "1.0.0",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "author": "Parvez Imtiyaz",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/grandtech/werk-app/issues"
+      "url": "https://github.com/grandtech/werkapp/issues"
     },
-    "homepage": "https://github.com/grandtech/werk-app"
+    "homepage": "https://github.com/grandtech/werkapp"
   }
