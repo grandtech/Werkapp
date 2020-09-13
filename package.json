@@ -1,23 +1,20 @@
-{
-  "name": "werk-app",
-  "version": "1.0.0",
-  "description": "recruitment application for employers and jobseekers",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "author": "Parvez Imtiyaz",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dalenguyen/werkapp.git"
-  },
-  .........................
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@grandtech"
+  {
+    "name": "werk-app",
+    "description": "Recruitment App using MERN",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/grandtech/werk-app.git"
+    },
+    "keywords": [],
+    "author": "Parvez Imtiyaz",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/grandtech/werk-app/issues"
+    },
+    "homepage": "https://github.com/grandtech/werk-app"
   }
-}
