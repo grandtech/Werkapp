@@ -1,0 +1,22 @@
+{
+  "name": "werk-app",
+  "version": "1.0.0",
+  "description": "recruitment application for employers and jobseekers",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "mocha --timeout 60000 --exit -r ts-node/register test/**/*.spec.ts",
+    "build": "tsc",
+    "deploy": "npm publish"
+  },
+  "author": "Parvez Imtiyaz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalenguyen/werkapp.git"
+  },
+  .........................
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@grandtech"
+  }
+}
