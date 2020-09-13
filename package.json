@@ -4,10 +4,11 @@
   "description": "recruitment application for employers and jobseekers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "scripts": {
-    "test": "mocha --timeout 60000 --exit -r ts-node/register test/**/*.spec.ts",
-    "build": "tsc",
-    "deploy": "npm publish"
+   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "author": "Parvez Imtiyaz",
   "license": "ISC",
