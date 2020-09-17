@@ -1,5 +1,5 @@
   {
-    "name": "werkapp",
+    "name": "@grandtech/werkapp",
     "description": "Recruitment App using MERN",
     "version": "1.0.0",
     "main": "index.js",
