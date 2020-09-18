@@ -1,0 +1,22 @@
+{
+  "name": "@grandtech/werkapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "git://github.com/grandtech/werkapp.git."
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grandtech/werkapp.git./issues"
+  },
+  "homepage": "https://github.com/grandtech/werkapp.git.#readme",
+  "description": ""
+}
